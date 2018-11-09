@@ -11,6 +11,3 @@ public class Start extends AppCompatActivity {
         setContentView(R.layout.activity_start);
     }
 }
-private void PullUp(){
-    
-}
