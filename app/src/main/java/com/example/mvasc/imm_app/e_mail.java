@@ -1,4 +1,4 @@
 package com.example.mvasc.imm_app;
 
-public class Prueba {
+public class e_mail {
 }
